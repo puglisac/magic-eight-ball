@@ -1,4 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Magic Eight Ball
+
+Magic Eight Ball is an app that mimics the magic eight ball toy.  Think of a question, then click the ball to get a response!
+
 
 ## Available Scripts
 

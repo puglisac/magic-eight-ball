@@ -1,0 +1,25 @@
+.Eightball {
+    color: white;
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    border-radius: 150px;
+    text-align: center;
+    margin: auto;
+    position: relative;
+    box-shadow: 5px 5px 10px rgb(48, 48, 48);
+}
+
+.Eightball-text {
+    padding: 65px 0;
+}
+
+.Eightball-window {
+    border-radius: 75px;
+    position: absolute;
+    left: 75px;
+    top: 75px;
+    width: 150px;
+    Height: 150px;
+    background-color: rgb(0, 0, 83);
+}
